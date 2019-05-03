@@ -1,0 +1,57 @@
+.max-height{
+	min-height: 100vh;
+}
+
+body{
+	background: #b09e99;
+}
+
+#quote-container{
+	background:rgba(255, 255, 255, 0.5);
+	height: 500px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+}
+
+#generate-btn{
+	color:white;
+	background: #64b6ac;
+	font-size: 30px;
+	cursor: pointer;
+	border-color: #64b6ac;
+	margin-top: 40px;
+	margin-left: 240px;
+}
+
+#generate-btn:hover{
+	background: #b09e99;
+	border-color: #b09e99;
+	color: #333333;
+}
+
+#select{
+
+
+	margin-bottom: 80px;
+	margin-left: px;
+}
+
+.container{
+	padding: 60px;
+}
+
+.col-md-6{
+	margin-left: 250px;
+	margin-top: 20px;
+}
+
+.text-muted{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.strong{
+	margin-right: 20px;
+	margin-top: 40px;
+}

@@ -1,0 +1,38 @@
+ .max-height{
+	min-height: 100vh;
+}
+
+body{
+	background: #b09e99;
+}
+
+.quote-container{
+	background:rgba(255, 255, 255, 0.5);
+	height: 350px;
+}
+
+#generate-btn{
+	color:white;
+	background: #64b6ac;
+	font-size: 30px;
+	cursor: pointer;
+	margin-left: 80px;
+	border-color: #64b6ac;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+
+#generate-btn:hover{
+	background: #b09e99;
+	border-color: #b09e99;
+	color: #333333;
+}
+
+.author{
+	color: #64b6ac;
+
+}
+
+.container{
+	padding: 60px;
+}

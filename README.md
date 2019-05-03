@@ -1,0 +1,1 @@
+# javascript quote generator
